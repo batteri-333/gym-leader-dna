@@ -1,0 +1,602 @@
+[
+  {
+    "path": "assets/pokemon-395.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "sha256": "4d8697a9e331f7bc6b57495d5bb1f7df049ab94aaaa66e2a3ea9131eec067f0c"
+  },
+  {
+    "path": "assets/pokemon-197.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "sha256": "8d7f18f7b323269dff84480f1ee8873a5d47a3eb3fd4b2ac1d2bbf0cf45a6ddd"
+  },
+  {
+    "path": "assets/scene-10.png",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-13-2x.png",
+    "sha256": "8761a1caf969174070e6e26f904f8fc780e4df1443c6506b00dca70630772c58"
+  },
+  {
+    "path": "assets/pokemon-593.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "sha256": "3df43b19e8f654292810d9a79a8c3078d9738cbd8b37dd1dbfb81cb3979813ec"
+  },
+  {
+    "path": "assets/scene-11.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/mar_p03_02-2x.jpg",
+    "sha256": "0a8f2020352100e32c5dac8751274c1814f126e04eb53cad4d45e51176e604e3"
+  },
+  {
+    "path": "assets/pokemon-65.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "sha256": "8f1dfebe7855bf0838dc4110629b01a8862370373cabe527adf3f979bc4fa1e0"
+  },
+  {
+    "path": "assets/pokemon-59.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "sha256": "4461b18982bbed0d9384ebcf99015347ff47a4e9dc926476d779c83ebd2d7093"
+  },
+  {
+    "path": "assets/pokemon-169.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "sha256": "ab9a6777cf7b3d2a42fa06ec867a59860d78da335d9609cfe5c27616c20b2088"
+  },
+  {
+    "path": "assets/pokemon-196.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "sha256": "d0e74b02adc3df07f9bf026303b1068c58183f8703ae2ca42b8d7b58e9a0696f"
+  },
+  {
+    "path": "assets/trainer-sabrina.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/sabrina.png",
+    "sha256": "f202e06591e814f4a2cc6190b832dee826612522b3094d6894dbea697e086117"
+  },
+  {
+    "path": "assets/pokemon-143.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "sha256": "1afd32e5f6053a50860d67c5d7cc3bc6ca9a174634097fe65880523a0a13a55a"
+  },
+  {
+    "path": "assets/pokemon-73.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "sha256": "14c5a462583b43fcb26f9831a696b917434114e9c0210c9035aa2e625f4d71eb"
+  },
+  {
+    "path": "assets/scene-13.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p04_03_en-2x.jpg",
+    "sha256": "63f0c2d0866dcbac3085db9c93e3aacdba82240a4183a41f9e011706d54287b0"
+  },
+  {
+    "path": "assets/scene-12.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p04_02_en-2x.jpg",
+    "sha256": "32552a21e6622494b51c124812a73876cec25a58ec54bcaa159eba8fa039ae72"
+  },
+  {
+    "path": "assets/pokemon-10239.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png",
+    "sha256": "e05c0ece8bff7926177bfe9e07ee9f81d2b1736e26915687bfeea5cb56a6a889"
+  },
+  {
+    "path": "assets/pokemon-778.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "sha256": "3f368b3fb05af171b6ac0ce893ee065aea6e608be45e04087af1902fc43ab708"
+  },
+  {
+    "path": "assets/pokemon-142.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "sha256": "5427b0a9ac5dbf1fee7fcd19f44de1dfb97d577c82262bb961538865a08bc79a"
+  },
+  {
+    "path": "assets/trainer-volkner.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/volkner.png",
+    "sha256": "1b3baa7fca51b8becbf78d71afca2237f50988ad2f59b344845637991cc716bd"
+  },
+  {
+    "path": "assets/trainer-morty.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/morty.png",
+    "sha256": "cb493a51ffc25e7f01514f79be883a3c89617c948ec814067ab86c0a4846276f"
+  },
+  {
+    "path": "assets/pokemon-230.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "sha256": "35a530d0da4ae6dfa34a1de280fc05db55aac871d0ca298b4f2b555ad3708039"
+  },
+  {
+    "path": "assets/scene-16.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p05_01_en-2x.jpg",
+    "sha256": "38a2c6cd9c829c5c3201448a8c0cda0054d11f2003a03b503508d2fa3a54d735"
+  },
+  {
+    "path": "assets/scene-17.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p05_04_en-2x.jpg",
+    "sha256": "8aa4549806cc35b538723c016d644cb9f56b26f528a0524b1e34ec9118c5b30e"
+  },
+  {
+    "path": "assets/pokemon-609.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "sha256": "c4dc9669beb0d42295e776a823aa6874e62bdecb83e1bc7b8cf28bfabdc91840"
+  },
+  {
+    "path": "assets/pokemon-635.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "sha256": "74b0d31de02ec0c2350fccce401190f196037d51f17a5931a04ff9b2d67a2c3b"
+  },
+  {
+    "path": "assets/pokemon-184.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "sha256": "a55c0d5b890fb2bcb90a3ea0dbc13fa53e2f54bdbed45d585975d05e77c123a2"
+  },
+  {
+    "path": "assets/trainer-bugsy.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/bugsy.png",
+    "sha256": "8476fc569a4a6a3ea9058abe8533b757111a6cb0121b08c548b4d6339ebf247f"
+  },
+  {
+    "path": "assets/pokemon-423.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "sha256": "1868547dc6fb222a7ef8ce96176b1189a3e779412d4d447831d9f0ed64f45014"
+  },
+  {
+    "path": "assets/trainer-misty.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/misty.png",
+    "sha256": "5efe2a5176796ebe3e18168b6a87b80b72d89393f4dc25d35dd0ebe2b0b2f5cc"
+  },
+  {
+    "path": "assets/trainer-karen.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/karen.png",
+    "sha256": "5487b9a1ac44fbc1497a549949bbf40a3fdd024a76b2838235f98d7b25440aff"
+  },
+  {
+    "path": "assets/pokemon-392.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "sha256": "0b23361c54a8c17ff414a0abfb79bf642fb9443dc0163e3c6162346c5558e8e3"
+  },
+  {
+    "path": "assets/pokemon-637.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "sha256": "05e4d5f86fd53f786bcf13e6fa334678eeb010041bdb2eb747dc24aebb7b1287"
+  },
+  {
+    "path": "assets/pokemon-596.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "sha256": "92d2db400fd988c611c33fd2bad6bfabd2e564b28e7f13ba348017f238e4f44b"
+  },
+  {
+    "path": "assets/scene-15.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p06_02_en-2x.jpg",
+    "sha256": "ffd20a8d1a9c884605f33d776f4a2dd1d3cb46dec32f51f95ec73db203111afa"
+  },
+  {
+    "path": "assets/scene-14.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p03_04_en-2x.jpg",
+    "sha256": "cf41ace81a1c7a7f93b12fdd124452ed1b21f87e23010201833d686fb9d0fcf4"
+  },
+  {
+    "path": "assets/pokemon-346.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "sha256": "413f593ec103f4dbe1f4bcefcb74e810790589a0cb482ef8bd4f85eee25591cf"
+  },
+  {
+    "path": "assets/pokemon-282.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "sha256": "ac40b3e87de95706cae9631802b975882f9830c1528253d367cfa7fd3f2957bd"
+  },
+  {
+    "path": "assets/trainer-steven.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/steven.png",
+    "sha256": "ac71965ed7dd755b436a00c39392754ad1a527a3edb808695842ecfbf1c74b31"
+  },
+  {
+    "path": "assets/pokemon-452.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "sha256": "7e796c40975f208ab004755bfd9e833e646d0fdc2df86631a7e3922435136ecc"
+  },
+  {
+    "path": "assets/trainer-lance.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/lance.png",
+    "sha256": "af8511d1620255a915fc83152db79472a55451790478596fad08b881316cd13f"
+  },
+  {
+    "path": "assets/trainer-erika.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/erika.png",
+    "sha256": "caedbaf5ee37143a3a223bd9d4c36b1aceafc5555e7a8c3a42b2804683750490"
+  },
+  {
+    "path": "assets/pokemon-450.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "sha256": "b4e107152d0b2a7aadb2470583335deb345a205d8ecad396cc35c5fa2c864566"
+  },
+  {
+    "path": "assets/pokemon-849.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "sha256": "7b9871deccdbc0b24c176cb1c8767d6ac75fba12fb8e7d8dacf7e680cb2bc497"
+  },
+  {
+    "path": "assets/pokemon-530.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "sha256": "3f0376151a774ee61cb39fe8ef968e999555cb9ae3cca1fd45a531acb73ebe73"
+  },
+  {
+    "path": "assets/pokemon-242.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "sha256": "cd1cfc181c33fc1c5c6619d2d59fdaf94c34f49f16975367059d978a00df7a79"
+  },
+  {
+    "path": "assets/pokemon-135.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "sha256": "bf525c20b899e08398d93d0436d2e592463068d85da8760424ac340c7f8f8ed8"
+  },
+  {
+    "path": "assets/pokemon-445.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "sha256": "c9122fe26666487f152bc299ce73257141d5e762d486ac49867c97b19342980f"
+  },
+  {
+    "path": "assets/pokemon-10104.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png",
+    "sha256": "d5cfa322d05e9bc110803e8fa361c5a2c74e078d8dade87caca083e6ae834477"
+  },
+  {
+    "path": "assets/pokemon-131.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "sha256": "ffd98849dee0a265bb109d9798dbfd18b35346a1c21ca01aa0dab60a72defbc6"
+  },
+  {
+    "path": "assets/scene-8.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-6-2x.jpg",
+    "sha256": "093701c3fa9284c21eb86cf3213cf8a3fd14b1d7e65e04cf464e6ca25a915b01"
+  },
+  {
+    "path": "assets/pokemon-534.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "sha256": "73d17912f1514274ceec7a41bcb4dd279ee8550201037b69b49caf9984b58188"
+  },
+  {
+    "path": "assets/scene-9.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/mar_p02_03-2x.jpg",
+    "sha256": "498b62d9d1b57df9808bf16dc4246224a50d52a9124cf840be1ce037533d44ab"
+  },
+  {
+    "path": "assets/trainer-pryce.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/pryce.png",
+    "sha256": "83c8cda85a3c8c2886f137b5474ecfc37b6a4ae4a593f572c457bd1a57ba6851"
+  },
+  {
+    "path": "assets/pokemon-911.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    "sha256": "b6b4449d6841c303a2913f70020f9c329eb836fd23976d3ffb00a24f60810d5a"
+  },
+  {
+    "path": "assets/pokemon-130.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "sha256": "41d17760b81321cc7a3fb2cb1568d3c33010e892b687eeacb3738ba307071f8b"
+  },
+  {
+    "path": "assets/pokemon-681.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "sha256": "196fd293d3721a1091700c029536addaf7c98125af6aca2285431102ebf24e26"
+  },
+  {
+    "path": "assets/pokemon-468.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "sha256": "d89c7b73cb9c288c531eb3cd82fe2e7cfcd5483ffea6381d9c18dbc76f38d8b3"
+  },
+  {
+    "path": "assets/pokemon-324.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "sha256": "74cd3c62884521ee44ca87e24c044cdac17a4cb5fb78b064a42fdfeaf087940f"
+  },
+  {
+    "path": "assets/trainer-norman.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/norman.png",
+    "sha256": "e6b0e32fa92f715431e0b4767a09fa5844fd9f904d2e4fcebcb8bb94282432b0"
+  },
+  {
+    "path": "assets/pokemon-286.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "sha256": "5659f40bc559caa407b3cd31a7ff248ef90070e00cd2a808aa483819514b6bba"
+  },
+  {
+    "path": "assets/pokemon-472.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "sha256": "9e902ab70836789a73430ad13ed6420b703f357cafc4c827ef2138a7856a7a60"
+  },
+  {
+    "path": "assets/pokemon-466.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "sha256": "38c6c1a1df6c3b5fb0f7bec7c81d11f15dcd29359f25535519a6de710eb85aaf"
+  },
+  {
+    "path": "assets/scene-7.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-5-2x.jpg",
+    "sha256": "0a86ee720b71372da9f9e25e3d6d8a3c3199c46a4881597047e31dd1c86f80b6"
+  },
+  {
+    "path": "assets/pokemon-248.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "sha256": "080b69438af4483ecd73f7ba154b5d5c845726028ac3071bde455de8978bb509"
+  },
+  {
+    "path": "assets/pokemon-260.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "sha256": "c812815f91ebfb092870f933d24c0c82a5bc8f0ba8fc971d68d38496640bc101"
+  },
+  {
+    "path": "assets/scene-6.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-4-2x.jpg",
+    "sha256": "ec6c7811140e62a30262489e07b40df7c4f89145d2344dd40f4f369883405157"
+  },
+  {
+    "path": "assets/trainer-valerie.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/valerie.png",
+    "sha256": "0de21f775bedf5c7955f88887395319b8434a64375dbf96d015b4712c23091ff"
+  },
+  {
+    "path": "assets/pokemon-473.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "sha256": "51dff25e8e46efbfe388bbc1f4122998334afd0a323a4a0ad1774f51fed1ed48"
+  },
+  {
+    "path": "assets/trainer-giovanni.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/giovanni.png",
+    "sha256": "44a80c7f8d4d9de86f66d45623890d3965bc67e2691e4d6caea9f6f5122c6c13"
+  },
+  {
+    "path": "assets/pokemon-303.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "sha256": "c8486e58e6ab7214218307818b0943cc18e77ad97a0aef79314966e6b7ed1bdf"
+  },
+  {
+    "path": "assets/pokemon-713.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "sha256": "fcf36b688c589f82de09a0c70a0bcb1a2b2027931c6f6ef9d8bd56ef400349eb"
+  },
+  {
+    "path": "assets/pokemon-707.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "sha256": "617a8bd49051f91b1d41629c5e20160580a3989ad95e1cf7a923a07c5c11435f"
+  },
+  {
+    "path": "assets/pokemon-31.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "sha256": "811093801d0b6a9323217e393e527c17d2955f4b0aa1a1d6961d3e23a00e4eb8"
+  },
+  {
+    "path": "assets/scene-4.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-2-2x.jpg",
+    "sha256": "74bd83a57877d5160a1767188cd4c475bf51e8bbcadbbb98058f0b99d79eb5f6"
+  },
+  {
+    "path": "assets/scene-5.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-3-2x.jpg",
+    "sha256": "ef14430dcea3e2fb064b095f3db923c641a33f2ec995a64525682dba2594a23b"
+  },
+  {
+    "path": "assets/pokemon-706.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "sha256": "d7b5bfbaa321940e254b2b9be2815827005d2e5bca40b52a6e600c26e44a0f8b"
+  },
+  {
+    "path": "assets/pokemon-470.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "sha256": "3cb145cfafe87da63f75d80d2540e2f7f61c3c97275ff4231a462d949f4bd339"
+  },
+  {
+    "path": "assets/pokemon-464.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "sha256": "039ec0c6aaae4ddd9ffa06308cc7a34523271893937a21212d5b4658cfee6117"
+  },
+  {
+    "path": "assets/pokemon-302.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "sha256": "69c4e511be37f3fb0a4d79e5c937a7b87d5fcf6a220755744c173b31fdc4caaf"
+  },
+  {
+    "path": "assets/pokemon-306.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "sha256": "87852235e548c06e4a1c03c15813144baa4f172f4cc06813453cc7f2c7c7dcd8"
+  },
+  {
+    "path": "assets/pokemon-460.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "sha256": "105bfb2ee8162a69f8d10b3997d496124ba497570d8a3d10e8af58664b39333b"
+  },
+  {
+    "path": "assets/pokemon-474.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "sha256": "d703eea8a609c907b79b7dc3fec565ff1b792bbdd2ebe5340e6d00f8fac367a2"
+  },
+  {
+    "path": "assets/pokemon-448.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "sha256": "8c5064f1d4a37c8b554d7ad83d77970b02d6875750f934c782493c83f8943127"
+  },
+  {
+    "path": "assets/pokemon-689.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "sha256": "aadff3c90e5079de786b499893d2aa848c98f5ed8d33029a9a1817ba146867c2"
+  },
+  {
+    "path": "assets/pokemon-34.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "sha256": "b018c1967dd92a298f5c8fc513f23e0fc2c2b74eb15e9a2d28758a9379bd5ae7"
+  },
+  {
+    "path": "assets/scene-1.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-7-2x.jpg",
+    "sha256": "26d389b80ec9e95eed546ba425e199e95e2062574cb4ceed023dc3b4c9fe5585"
+  },
+  {
+    "path": "assets/pokemon-475.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "sha256": "ae5db3774ea3c639e3f7b03be4dbd367e959c2892e91967f8501cddcaa782d59"
+  },
+  {
+    "path": "assets/pokemon-461.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "sha256": "11d5a85c9948d2ab4b2cd0cc0f373f6d3a42f703454e4b78a01ce8732dfbe991"
+  },
+  {
+    "path": "assets/trainer-brock.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/brock.png",
+    "sha256": "ca422c284f250814332bcc61df1aaf174dd450477676028dec400750638a319d"
+  },
+  {
+    "path": "assets/pokemon-701.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "sha256": "041072a1c2ef2b141295050f97a51132370e4db24da7f45286d9f96a1210543e"
+  },
+  {
+    "path": "assets/scene-2.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-8-2x.jpg",
+    "sha256": "a5e5516fcc06716a4cdf5abeb62c06663d95660ab2c225c8769344e961e19539"
+  },
+  {
+    "path": "assets/scene-3.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/gameplay-img-9-2x.jpg",
+    "sha256": "18fd3158915a16ba365b6e4463735bfb0c4b41c0b02bd6ed414ea385b4247bf2"
+  },
+  {
+    "path": "assets/pokemon-700.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "sha256": "193777db6d89cdace234fe3198dca4e955a7a5a18011cd0105178b436f6199a7"
+  },
+  {
+    "path": "assets/pokemon-462.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "sha256": "34a5f7a06d772cdffded38c25bf2e4a5627f9c1e9d359ff985bfe93ca4496513"
+  },
+  {
+    "path": "assets/pokemon-149.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "sha256": "4bd7549caa15eac43a8197ba53e843a95f2b56c71b1121829ea76764fbf26f9c"
+  },
+  {
+    "path": "assets/scene-19.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/lumiose-city-img.jpg",
+    "sha256": "df9221c2ce57d77e514690a0b77acfd7b45fbd551931cd065fb922efb5072f66"
+  },
+  {
+    "path": "assets/scene-18.jpg",
+    "url": "https://legends.pokemon.com/images/pages/gameplay/locs/mar_p05_05_en-2x.jpg",
+    "sha256": "6020f32f95cbce6429b77680726f47e3d3189e9fd636c8da85952cb62af84d6b"
+  },
+  {
+    "path": "assets/pokemon-3.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "sha256": "106d0040aa775f95871706c30ddd4abaef2c962215f5e8bd4141e0caef0ef8e4"
+  },
+  {
+    "path": "assets/pokemon-376.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "sha256": "a871d3272f6da2fb4df63d2304db65aac08c24a9575e8d7ba6377f2ee87535d0"
+  },
+  {
+    "path": "assets/pokemon-348.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "sha256": "0c06a92d95657c8331ecb3407c9c21a438ac646011008c9275ea59e17766e71a"
+  },
+  {
+    "path": "assets/pokemon-823.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "sha256": "f6bc05f08b586cac13883360232a5369c9e0873dee6f9cb83fba27e62cf76ab9"
+  },
+  {
+    "path": "assets/pokemon-91.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "sha256": "4510ded0220c2b574078e2b009884b8c3552c12e3bad843c5a120af26ea4d290"
+  },
+  {
+    "path": "assets/pokemon-214.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "sha256": "227abfbedbdfec11c8255c471b465fa79604224687eccbbc4f77b92817acbebd"
+  },
+  {
+    "path": "assets/pokemon-598.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "sha256": "4f77c1949774a9eeb9043fee61876215c431e8ccef091bcbc2c6b6d9fa8925b5"
+  },
+  {
+    "path": "assets/pokemon-407.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "sha256": "a98c33e6125b7be201f8f6f4872ad97fb361c5ab8ee97e260fecdc8c08968dc0"
+  },
+  {
+    "path": "assets/pokemon-80.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "sha256": "78c59860688ec9c386afce52097d4f6ede75401f2bbb492e1a63fd50a0517e95"
+  },
+  {
+    "path": "assets/pokemon-94.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "sha256": "b6549b80537676fcf4a589c8853b38cce42f42b5f707bbe2e63797666175cf06"
+  },
+  {
+    "path": "assets/pokemon-205.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "sha256": "1ae19ac7d15ccb9b82848c85e4e63a10c4759aa84434d3ddb757ff182f69271f"
+  },
+  {
+    "path": "assets/pokemon-748.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "sha256": "2eb1c9e63f74522857b50cd906ef3ec7985ca66b3c914c5b5ef0a36a692ae3f5"
+  },
+  {
+    "path": "assets/pokemon-760.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "sha256": "f6a1f2ecee4eebfcec7d04e3c998389730463f9031177d38dea7af53ee3a055f"
+  },
+  {
+    "path": "assets/trainer-flint.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/flint.png",
+    "sha256": "3b7d00527c0735bc05f6b98ae09375a3ce6e36a40a0839cf1b2014a6403bee78"
+  },
+  {
+    "path": "assets/trainer-koga.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/koga.png",
+    "sha256": "77f405e55dbea9dbdb2abca76011b6ec37419ce4e4e00938091f77bd883f1f6a"
+  },
+  {
+    "path": "assets/trainer-bruno.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/bruno.png",
+    "sha256": "684f59891985fab14f17e4573bef974c66a09587b6bfdab37bd98302241dba55"
+  },
+  {
+    "path": "assets/pokemon-68.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "sha256": "5d124f441d6690e19de8685e30b1e5d375f2fd6dd91be5cfd164dacf6853f7e6"
+  },
+  {
+    "path": "assets/pokemon-10009.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10009.png",
+    "sha256": "45833d80ed0e71b3100330ae76b6b4e9823329c8d86e5be2847173a39e963b1c"
+  },
+  {
+    "path": "assets/pokemon-560.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "sha256": "ff5559304f21daabe6861bad61a6bd3b27214fe16c10ef0c91ed0cdc1c3abef6"
+  },
+  {
+    "path": "assets/pokemon-212.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "sha256": "67765e304fa030422abc88e4b1f5eae21cb558e9b6dc0f1a43656f0f1daf6434"
+  },
+  {
+    "path": "assets/pokemon-10008.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10008.png",
+    "sha256": "5990b8ca2d19d7183977b47218819fed390b0349ebdecb69a07cec8bb6bd3c38"
+  },
+  {
+    "path": "assets/trainer-winona.png",
+    "url": "https://play.pokemonshowdown.com/sprites/trainers/winona.png",
+    "sha256": "4a144e34a297c4e1e9d4febe5014828e9ba29d1c379bf95fee54a27709c86538"
+  },
+  {
+    "path": "assets/pokemon-373.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "sha256": "3d9f18c1a25e998ef5e50e5a447e5f38637ee8a7f428b5f4477091a9b8192d3f"
+  },
+  {
+    "path": "assets/pokemon-398.png",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "sha256": "dd8f43d1a1cc9975af7c56057cdab4a80400ec4dd67b0338490382336fef269f"
+  }
+]

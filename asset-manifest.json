@@ -1,0 +1,898 @@
+[
+  {
+    "id": 143,
+    "name": "snorlax",
+    "korean": "잠만보",
+    "types": [
+      "normal"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "label": "잠만보"
+  },
+  {
+    "id": 242,
+    "name": "blissey",
+    "korean": "해피너스",
+    "types": [
+      "normal"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "label": "해피너스"
+  },
+  {
+    "id": 398,
+    "name": "staraptor",
+    "korean": "찌르호크",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "label": "찌르호크"
+  },
+  {
+    "id": 474,
+    "name": "porygon-z",
+    "korean": "폴리곤Z",
+    "types": [
+      "normal"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
+    "label": "폴리곤Z"
+  },
+  {
+    "id": 760,
+    "name": "bewear",
+    "korean": "이븐곰",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "label": "이븐곰"
+  },
+  {
+    "id": 10239,
+    "name": "zoroark-hisui",
+    "korean": "조로아크",
+    "types": [
+      "normal",
+      "ghost"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png",
+    "label": "조로아크(히스이)"
+  },
+  {
+    "id": 392,
+    "name": "infernape",
+    "korean": "초염몽",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "label": "초염몽"
+  },
+  {
+    "id": 59,
+    "name": "arcanine",
+    "korean": "윈디",
+    "types": [
+      "fire"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "label": "윈디"
+  },
+  {
+    "id": 10008,
+    "name": "rotom-heat",
+    "korean": "로토무",
+    "types": [
+      "electric",
+      "fire"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10008.png",
+    "label": "히트로토무"
+  },
+  {
+    "id": 637,
+    "name": "volcarona",
+    "korean": "불카모스",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "label": "불카모스"
+  },
+  {
+    "id": 911,
+    "name": "skeledirge",
+    "korean": "라우드본",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    "label": "라우드본"
+  },
+  {
+    "id": 324,
+    "name": "torkoal",
+    "korean": "코터스",
+    "types": [
+      "fire"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "label": "코터스"
+  },
+  {
+    "id": 260,
+    "name": "swampert",
+    "korean": "대짱이",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "label": "대짱이"
+  },
+  {
+    "id": 130,
+    "name": "gyarados",
+    "korean": "갸라도스",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "label": "갸라도스"
+  },
+  {
+    "id": 73,
+    "name": "tentacruel",
+    "korean": "독파리",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "label": "독파리"
+  },
+  {
+    "id": 395,
+    "name": "empoleon",
+    "korean": "엠페르트",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "label": "엠페르트"
+  },
+  {
+    "id": 80,
+    "name": "slowbro",
+    "korean": "야도란",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "label": "야도란"
+  },
+  {
+    "id": 230,
+    "name": "kingdra",
+    "korean": "킹드라",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "label": "킹드라"
+  },
+  {
+    "id": 466,
+    "name": "electivire",
+    "korean": "에레키블",
+    "types": [
+      "electric"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "label": "에레키블"
+  },
+  {
+    "id": 10009,
+    "name": "rotom-wash",
+    "korean": "로토무",
+    "types": [
+      "electric",
+      "water"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10009.png",
+    "label": "워시로토무"
+  },
+  {
+    "id": 462,
+    "name": "magnezone",
+    "korean": "자포코일",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "label": "자포코일"
+  },
+  {
+    "id": 135,
+    "name": "jolteon",
+    "korean": "쥬피썬더",
+    "types": [
+      "electric"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "label": "쥬피썬더"
+  },
+  {
+    "id": 596,
+    "name": "galvantula",
+    "korean": "전툴라",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "label": "전툴라"
+  },
+  {
+    "id": 849,
+    "name": "toxtricity-amped",
+    "korean": "스트린더",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "label": "스트린더"
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "korean": "이상해꽃",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "label": "이상해꽃"
+  },
+  {
+    "id": 598,
+    "name": "ferrothorn",
+    "korean": "너트령",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "label": "너트령"
+  },
+  {
+    "id": 286,
+    "name": "breloom",
+    "korean": "버섯모",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "label": "버섯모"
+  },
+  {
+    "id": 407,
+    "name": "roserade",
+    "korean": "로즈레이드",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "label": "로즈레이드"
+  },
+  {
+    "id": 460,
+    "name": "abomasnow",
+    "korean": "눈설왕",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "label": "눈설왕"
+  },
+  {
+    "id": 470,
+    "name": "leafeon",
+    "korean": "리피아",
+    "types": [
+      "grass"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "label": "리피아"
+  },
+  {
+    "id": 473,
+    "name": "mamoswine",
+    "korean": "맘모꾸리",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "label": "맘모꾸리"
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "korean": "라프라스",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "label": "라프라스"
+  },
+  {
+    "id": 461,
+    "name": "weavile",
+    "korean": "포푸니라",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "label": "포푸니라"
+  },
+  {
+    "id": 91,
+    "name": "cloyster",
+    "korean": "파르셀",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "label": "파르셀"
+  },
+  {
+    "id": 713,
+    "name": "avalugg",
+    "korean": "크레베이스",
+    "types": [
+      "ice"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "label": "크레베이스"
+  },
+  {
+    "id": 448,
+    "name": "lucario",
+    "korean": "루카리오",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "label": "루카리오"
+  },
+  {
+    "id": 68,
+    "name": "machamp",
+    "korean": "괴력몬",
+    "types": [
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "label": "괴력몬"
+  },
+  {
+    "id": 475,
+    "name": "gallade",
+    "korean": "엘레이드",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "label": "엘레이드"
+  },
+  {
+    "id": 534,
+    "name": "conkeldurr",
+    "korean": "노보청",
+    "types": [
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "label": "노보청"
+  },
+  {
+    "id": 560,
+    "name": "scrafty",
+    "korean": "곤율거니",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "label": "곤율거니"
+  },
+  {
+    "id": 701,
+    "name": "hawlucha",
+    "korean": "루차불",
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "label": "루차불"
+  },
+  {
+    "id": 169,
+    "name": "crobat",
+    "korean": "크로뱃",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "label": "크로뱃"
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "korean": "팬텀",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "label": "팬텀"
+  },
+  {
+    "id": 452,
+    "name": "drapion",
+    "korean": "드래피온",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "label": "드래피온"
+  },
+  {
+    "id": 31,
+    "name": "nidoqueen",
+    "korean": "니드퀸",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "label": "니드퀸"
+  },
+  {
+    "id": 748,
+    "name": "toxapex",
+    "korean": "더시마사리",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "label": "더시마사리"
+  },
+  {
+    "id": 445,
+    "name": "garchomp",
+    "korean": "한카리아스",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "label": "한카리아스"
+  },
+  {
+    "id": 530,
+    "name": "excadrill",
+    "korean": "몰드류",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "label": "몰드류"
+  },
+  {
+    "id": 450,
+    "name": "hippowdon",
+    "korean": "하마돈",
+    "types": [
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "label": "하마돈"
+  },
+  {
+    "id": 423,
+    "name": "gastrodon",
+    "korean": "트리토돈",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "label": "트리토돈"
+  },
+  {
+    "id": 34,
+    "name": "nidoking",
+    "korean": "니드킹",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "label": "니드킹"
+  },
+  {
+    "id": 823,
+    "name": "corviknight",
+    "korean": "아머까오",
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "label": "아머까오"
+  },
+  {
+    "id": 472,
+    "name": "gliscor",
+    "korean": "글라이온",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "label": "글라이온"
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "korean": "망나뇽",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "label": "망나뇽"
+  },
+  {
+    "id": 468,
+    "name": "togekiss",
+    "korean": "토게키스",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "label": "토게키스"
+  },
+  {
+    "id": 376,
+    "name": "metagross",
+    "korean": "메타그로스",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "label": "메타그로스"
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "korean": "후딘",
+    "types": [
+      "psychic"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "label": "후딘"
+  },
+  {
+    "id": 282,
+    "name": "gardevoir",
+    "korean": "가디안",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "label": "가디안"
+  },
+  {
+    "id": 196,
+    "name": "espeon",
+    "korean": "에브이",
+    "types": [
+      "psychic"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "label": "에브이"
+  },
+  {
+    "id": 212,
+    "name": "scizor",
+    "korean": "핫삼",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "label": "핫삼"
+  },
+  {
+    "id": 214,
+    "name": "heracross",
+    "korean": "헤라크로스",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "label": "헤라크로스"
+  },
+  {
+    "id": 205,
+    "name": "forretress",
+    "korean": "쏘콘",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "label": "쏘콘"
+  },
+  {
+    "id": 348,
+    "name": "armaldo",
+    "korean": "아말도",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "label": "아말도"
+  },
+  {
+    "id": 248,
+    "name": "tyranitar",
+    "korean": "마기라스",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "label": "마기라스"
+  },
+  {
+    "id": 142,
+    "name": "aerodactyl",
+    "korean": "프테라",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "label": "프테라"
+  },
+  {
+    "id": 346,
+    "name": "cradily",
+    "korean": "릴리요",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "label": "릴리요"
+  },
+  {
+    "id": 464,
+    "name": "rhyperior",
+    "korean": "거대코뿌리",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "label": "거대코뿌리"
+  },
+  {
+    "id": 306,
+    "name": "aggron",
+    "korean": "보스로라",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "label": "보스로라"
+  },
+  {
+    "id": 689,
+    "name": "barbaracle",
+    "korean": "거북손데스",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "label": "거북손데스"
+  },
+  {
+    "id": 778,
+    "name": "mimikyu-disguised",
+    "korean": "따라큐",
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "label": "따라큐"
+  },
+  {
+    "id": 681,
+    "name": "aegislash-shield",
+    "korean": "킬가르도",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "label": "킬가르도"
+  },
+  {
+    "id": 609,
+    "name": "chandelure",
+    "korean": "샹델라",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "label": "샹델라"
+  },
+  {
+    "id": 593,
+    "name": "jellicent-male",
+    "korean": "탱탱겔",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "label": "탱탱겔"
+  },
+  {
+    "id": 373,
+    "name": "salamence",
+    "korean": "보만다",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "label": "보만다"
+  },
+  {
+    "id": 706,
+    "name": "goodra",
+    "korean": "미끄래곤",
+    "types": [
+      "dragon"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "label": "미끄래곤"
+  },
+  {
+    "id": 635,
+    "name": "hydreigon",
+    "korean": "삼삼드래",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "label": "삼삼드래"
+  },
+  {
+    "id": 197,
+    "name": "umbreon",
+    "korean": "블래키",
+    "types": [
+      "dark"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "label": "블래키"
+  },
+  {
+    "id": 302,
+    "name": "sableye",
+    "korean": "깜까미",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "label": "깜까미"
+  },
+  {
+    "id": 184,
+    "name": "azumarill",
+    "korean": "마릴리",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "label": "마릴리"
+  },
+  {
+    "id": 303,
+    "name": "mawile",
+    "korean": "입치트",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "label": "입치트"
+  },
+  {
+    "id": 700,
+    "name": "sylveon",
+    "korean": "님피아",
+    "types": [
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "label": "님피아"
+  },
+  {
+    "id": 707,
+    "name": "klefki",
+    "korean": "클레피",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "label": "클레피"
+  },
+  {
+    "id": 10104,
+    "name": "ninetales-alola",
+    "korean": "나인테일",
+    "types": [
+      "ice",
+      "fairy"
+    ],
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png",
+    "label": "나인테일(알로라)"
+  }
+]
