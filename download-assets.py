@@ -1,4 +1,4 @@
-import concurrent.futures, hashlib, json, pathlib, urllib.request, time
+import base64, concurrent.futures, hashlib, json, pathlib, urllib.request, time
 root=pathlib.Path(__file__).parent
 
 def download(item):
@@ -6,7 +6,7 @@ def download(item):
     for attempt in range(3):
         try:
             req=urllib.request.Request(item['url'],headers={'User-Agent':'GymLeaderDNA/1.0'})
-            payload=urllib.request.urlopen(req,timeout=60).read()
+            payload=base64.b64decode(item['inline_base64']) if item.get('inline_base64') else urllib.request.urlopen(req,timeout=60).read()
             if hashlib.sha256(payload).hexdigest()!=item['sha256']:
                 raise ValueError('Image checksum mismatch: '+item['path'])
             target.write_bytes(payload)
